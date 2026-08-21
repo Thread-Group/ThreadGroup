@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace this URL after deployment with the final public URL.
-# Sitemap: https://YOUR-FINAL-URL/sitemap.xml
